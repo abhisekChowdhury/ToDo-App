@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "300054788851",
+    "firebase_url": "https://birdicomputers.firebaseio.com",
+    "project_id": "birdicomputers",
+    "storage_bucket": "birdicomputers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300054788851:android:06b7e97c88a1139e379586",
+        "android_client_info": {
+          "package_name": "com.birdicomputers.firebasesetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300054788851-6scvdrsjdq7tmgvvmvvaq6sh1dlcit7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.birdicomputers.firebasesetup",
+            "certificate_hash": "2884d5863510c4f955a3014e2ff022b31434c5f5"
+          }
+        },
+        {
+          "client_id": "300054788851-ur4he4dhmpsbc50fuldd8hi879rdt4ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMz3mkIM61cfrdPkOod5TngS82MjziZ6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300054788851-ur4he4dhmpsbc50fuldd8hi879rdt4ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300054788851:android:168597a8881feba6379586",
+        "android_client_info": {
+          "package_name": "com.birdicomputers.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300054788851-84k003g18nj1m884gvrh3sni5sl3n9fr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.birdicomputers.login",
+            "certificate_hash": "2884d5863510c4f955a3014e2ff022b31434c5f5"
+          }
+        },
+        {
+          "client_id": "300054788851-ur4he4dhmpsbc50fuldd8hi879rdt4ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMz3mkIM61cfrdPkOod5TngS82MjziZ6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300054788851-ur4he4dhmpsbc50fuldd8hi879rdt4ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300054788851:android:bd12c54b91e92f1d379586",
+        "android_client_info": {
+          "package_name": "com.birdicomputers.loginsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300054788851-ur4he4dhmpsbc50fuldd8hi879rdt4ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMz3mkIM61cfrdPkOod5TngS82MjziZ6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300054788851-ur4he4dhmpsbc50fuldd8hi879rdt4ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
